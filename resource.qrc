@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>OIP.jpeg</file>
+        <file>../../../Downloads/OIP-removebg-preview.png</file>
+    </qresource>
+    <qresource prefix="/img"/>
+</RCC>
